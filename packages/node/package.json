@@ -1,0 +1,28 @@
+{
+  "name": "@toggley/node",
+  "version": "0.1.0",
+  "description": "Toggley feature flags for Node.js servers: evaluates flags locally from a polled config.",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    }
+  },
+  "bin": {
+    "toggley-pull": "./bin/pull.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["feature flags", "feature toggles", "toggley"],
+  "homepage": "https://toggleyapp.com",
+  "license": "MIT"
+}

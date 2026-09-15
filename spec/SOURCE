@@ -1,0 +1,3 @@
+source: toggleyapp.com/plugins/albrightlabs/featureflag/tests/fixtures
+414e747dea40a7c96797690c0fab87efe7ade55430823bf961e85fcab05e68fe  evaluation-vectors.json
+27f8616e4f3f3c10ef52e5ce2a1c59e1ce7d21f8c01a09d3722fbaa784f839a1  bucketing-vectors.json

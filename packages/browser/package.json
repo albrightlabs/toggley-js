@@ -1,0 +1,22 @@
+{
+  "name": "@toggley/browser",
+  "version": "0.1.0",
+  "description": "Toggley feature flags for browsers: values for the current user, evaluated by Toggley.",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    }
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "keywords": ["feature flags", "feature toggles", "toggley"],
+  "homepage": "https://toggleyapp.com",
+  "license": "MIT"
+}
