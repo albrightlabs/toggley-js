@@ -1,0 +1,112 @@
+{
+    "segments": [
+        {
+            "key": "e2e-beta",
+            "name": "E2E beta testers",
+            "config": {
+                "included": ["user-3", "user-4"],
+                "excluded": ["user-9"],
+                "rules": [
+                    { "id": "sr1", "clauses": [{ "attribute": "plan", "op": "in", "values": ["beta"], "negate": false }] }
+                ]
+            }
+        }
+    ],
+    "flags": [
+        {
+            "key": "e2e-bool-on",
+            "name": "E2E boolean on",
+            "type": "boolean",
+            "clientSideAvailable": true,
+            "config": { "on": true, "offVariation": "off", "fallthrough": { "variation": "on" } }
+        },
+        {
+            "key": "e2e-bool-off",
+            "name": "E2E boolean off",
+            "type": "boolean",
+            "clientSideAvailable": true,
+            "config": { "on": false, "offVariation": "off", "fallthrough": { "variation": "on" } }
+        },
+        {
+            "key": "e2e-bool-split",
+            "name": "E2E 30% split",
+            "type": "boolean",
+            "clientSideAvailable": true,
+            "config": {
+                "on": true,
+                "offVariation": "off",
+                "fallthrough": { "rollout": { "hash": "v2", "seed": null, "bucketBy": "key", "variations": [{ "variation": "on", "weight": 30000 }, { "variation": "off", "weight": 70000 }] } }
+            }
+        },
+        {
+            "key": "e2e-legacy-split",
+            "name": "E2E legacy 50% split",
+            "type": "boolean",
+            "clientSideAvailable": true,
+            "config": {
+                "on": true,
+                "offVariation": "off",
+                "fallthrough": { "rollout": { "hash": "legacy", "seed": null, "bucketBy": "key", "variations": [{ "variation": "on", "weight": 50000 }, { "variation": "off", "weight": 50000 }] } }
+            }
+        },
+        {
+            "key": "e2e-text",
+            "name": "E2E text",
+            "type": "string",
+            "clientSideAvailable": true,
+            "variations": [
+                { "id": "blue", "name": "Blue", "value": "blue" },
+                { "id": "green", "name": "Green", "value": "green" },
+                { "id": "red", "name": "Red", "value": "red" }
+            ],
+            "config": {
+                "on": true,
+                "offVariation": "blue",
+                "rules": [
+                    { "id": "r1", "clauses": [{ "attribute": "email", "op": "endsWith", "values": ["@example.com"], "negate": false }], "variation": "green" },
+                    { "id": "r2", "clauses": [{ "attribute": "plan", "op": "in", "values": ["pro"], "negate": false }, { "attribute": "age", "op": "greaterThanOrEqual", "values": [30], "negate": false }], "variation": "red" }
+                ],
+                "fallthrough": { "variation": "blue" }
+            }
+        },
+        {
+            "key": "e2e-number",
+            "name": "E2E number",
+            "type": "number",
+            "clientSideAvailable": true,
+            "variations": [
+                { "id": "small", "name": "Small", "value": 10 },
+                { "id": "medium", "name": "Medium", "value": 25.5 },
+                { "id": "large", "name": "Large", "value": 100 }
+            ],
+            "config": {
+                "on": true,
+                "offVariation": "small",
+                "targets": [{ "variation": "large", "values": ["user-7"] }],
+                "rules": [
+                    { "id": "r1", "clauses": [{ "attribute": "country", "op": "in", "values": ["US", "CA"], "negate": true }], "variation": "medium" }
+                ],
+                "fallthrough": { "variation": "small" }
+            }
+        },
+        {
+            "key": "e2e-json",
+            "name": "E2E JSON",
+            "type": "json",
+            "clientSideAvailable": true,
+            "variations": [
+                { "id": "layout-a", "name": "Layout A", "value": { "layout": "a" } },
+                { "id": "layout-b", "name": "Layout B", "value": { "layout": "b", "columns": [1, 2] } },
+                { "id": "plain", "name": "Plain", "value": "plain" }
+            ],
+            "config": {
+                "on": true,
+                "offVariation": "plain",
+                "rules": [
+                    { "id": "r1", "clauses": [{ "op": "segmentMatch", "values": ["e2e-beta"], "negate": false }], "variation": "layout-b" }
+                ],
+                "fallthrough": { "rollout": { "hash": "v2", "seed": "e2e-seed", "bucketBy": "org", "variations": [{ "variation": "layout-a", "weight": 50000 }, { "variation": "plain", "weight": 50000 }] } }
+            }
+        }
+    ]
+}

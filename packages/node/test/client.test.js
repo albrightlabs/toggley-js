@@ -131,3 +131,10 @@ test('summarizer caps counters', () => {
   assert.equal(summarizer.snapshot({ name: 't', version: '0' }).kind, 'summary');
   assert.ok(summarizer.isEmpty, 'snapshot starts a new period');
 });
+
+test('waitForInitialization keeps the process alive until its timeout', async () => {
+  const client = new ToggleyClient({ serverKey: SERVER_KEY, autoStart: false, ...quiet });
+  const started = Date.now();
+  assert.equal(await client.waitForInitialization(50), false);
+  assert.ok(Date.now() - started >= 45);
+});

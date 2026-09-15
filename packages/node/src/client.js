@@ -107,9 +107,9 @@ export class ToggleyClient extends EventEmitter {
   /** waitForInitialization resolves true once a config is available, false on timeout or a rejected key. It never throws. */
   waitForInitialization(timeoutMs = 5000) {
     let timer;
+    // Not unref'd: a script awaiting initialization must stay alive until the timeout.
     const timeout = new Promise((resolve) => {
       timer = setTimeout(() => resolve(false), timeoutMs);
-      timer.unref?.();
     });
 
     return Promise.race([this._ready, timeout]).finally(() => clearTimeout(timer));
