@@ -2,22 +2,10 @@
     "specVersion": 1,
     "buckets": [
         {
-            "hash": "legacy",
-            "salt": "37",
-            "key": "session-c4ca4238a0b9",
-            "bucket": 61000
-        },
-        {
             "hash": "v2",
             "salt": "salt-37",
             "key": "session-c4ca4238a0b9",
             "bucket": 83206
-        },
-        {
-            "hash": "legacy",
-            "salt": "74",
-            "key": "ünïcødé-2",
-            "bucket": 89000
         },
         {
             "hash": "v2",
@@ -26,22 +14,10 @@
             "bucket": 66200
         },
         {
-            "hash": "legacy",
-            "salt": "111",
-            "key": "3000009",
-            "bucket": 26000
-        },
-        {
             "hash": "v2",
             "salt": "salt-111",
             "key": "3000009",
             "bucket": 32013
-        },
-        {
-            "hash": "legacy",
-            "salt": "148",
-            "key": "xxxx4",
-            "bucket": 43000
         },
         {
             "hash": "v2",
@@ -50,22 +26,10 @@
             "bucket": 33873
         },
         {
-            "hash": "legacy",
-            "salt": "185",
-            "key": "user-5",
-            "bucket": 10000
-        },
-        {
             "hash": "v2",
             "salt": "salt-185",
             "key": "user-5",
             "bucket": 9266
-        },
-        {
-            "hash": "legacy",
-            "salt": "222",
-            "key": "session-1679091c5a88",
-            "bucket": 53000
         },
         {
             "hash": "v2",
@@ -74,22 +38,10 @@
             "bucket": 99028
         },
         {
-            "hash": "legacy",
-            "salt": "259",
-            "key": "ünïcødé-7",
-            "bucket": 79000
-        },
-        {
             "hash": "v2",
             "salt": "salt-259",
             "key": "ünïcødé-7",
             "bucket": 38455
-        },
-        {
-            "hash": "legacy",
-            "salt": "296",
-            "key": "8000024",
-            "bucket": 19000
         },
         {
             "hash": "v2",
@@ -98,22 +50,10 @@
             "bucket": 12606
         },
         {
-            "hash": "legacy",
-            "salt": "333",
-            "key": "xxxxxxxxx9",
-            "bucket": 45000
-        },
-        {
             "hash": "v2",
             "salt": "salt-333",
             "key": "xxxxxxxxx9",
             "bucket": 81891
-        },
-        {
-            "hash": "legacy",
-            "salt": "370",
-            "key": "user-10",
-            "bucket": 63000
         },
         {
             "hash": "v2",
@@ -122,22 +62,10 @@
             "bucket": 44791
         },
         {
-            "hash": "legacy",
-            "salt": "407",
-            "key": "session-6512bd43d9ca",
-            "bucket": 10000
-        },
-        {
             "hash": "v2",
             "salt": "salt-407",
             "key": "session-6512bd43d9ca",
             "bucket": 93362
-        },
-        {
-            "hash": "legacy",
-            "salt": "444",
-            "key": "ünïcødé-12",
-            "bucket": 33000
         },
         {
             "hash": "v2",
@@ -146,22 +74,10 @@
             "bucket": 1633
         },
         {
-            "hash": "legacy",
-            "salt": "481",
-            "key": "13000039",
-            "bucket": 92000
-        },
-        {
             "hash": "v2",
             "salt": "salt-481",
             "key": "13000039",
             "bucket": 67257
-        },
-        {
-            "hash": "legacy",
-            "salt": "518",
-            "key": "xxxxxxxxxxxxxx14",
-            "bucket": 28000
         },
         {
             "hash": "v2",
@@ -170,22 +86,10 @@
             "bucket": 49869
         },
         {
-            "hash": "legacy",
-            "salt": "555",
-            "key": "user-15",
-            "bucket": 70000
-        },
-        {
             "hash": "v2",
             "salt": "salt-555",
             "key": "user-15",
             "bucket": 4652
-        },
-        {
-            "hash": "legacy",
-            "salt": "592",
-            "key": "session-c74d97b01eae",
-            "bucket": 76000
         },
         {
             "hash": "v2",
@@ -194,22 +98,10 @@
             "bucket": 89235
         },
         {
-            "hash": "legacy",
-            "salt": "629",
-            "key": "ünïcødé-17",
-            "bucket": 81000
-        },
-        {
             "hash": "v2",
             "salt": "salt-629",
             "key": "ünïcødé-17",
             "bucket": 84132
-        },
-        {
-            "hash": "legacy",
-            "salt": "666",
-            "key": "18000054",
-            "bucket": 47000
         },
         {
             "hash": "v2",
@@ -218,22 +110,10 @@
             "bucket": 10040
         },
         {
-            "hash": "legacy",
-            "salt": "703",
-            "key": "xxxxxxxxxxxxxxxxxxx19",
-            "bucket": 60000
-        },
-        {
             "hash": "v2",
             "salt": "salt-703",
             "key": "xxxxxxxxxxxxxxxxxxx19",
             "bucket": 91216
-        },
-        {
-            "hash": "legacy",
-            "salt": "740",
-            "key": "user-20",
-            "bucket": 60000
         },
         {
             "hash": "v2",
@@ -242,22 +122,10 @@
             "bucket": 49701
         },
         {
-            "hash": "legacy",
-            "salt": "777",
-            "key": "session-3c59dc048e88",
-            "bucket": 49000
-        },
-        {
             "hash": "v2",
             "salt": "salt-777",
             "key": "session-3c59dc048e88",
             "bucket": 68769
-        },
-        {
-            "hash": "legacy",
-            "salt": "814",
-            "key": "ünïcødé-22",
-            "bucket": 32000
         },
         {
             "hash": "v2",
@@ -266,22 +134,10 @@
             "bucket": 21260
         },
         {
-            "hash": "legacy",
-            "salt": "851",
-            "key": "23000069",
-            "bucket": 97000
-        },
-        {
             "hash": "v2",
             "salt": "salt-851",
             "key": "23000069",
             "bucket": 18100
-        },
-        {
-            "hash": "legacy",
-            "salt": "888",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxx24",
-            "bucket": 2000
         },
         {
             "hash": "v2",
@@ -290,22 +146,10 @@
             "bucket": 14003
         },
         {
-            "hash": "legacy",
-            "salt": "925",
-            "key": "user-25",
-            "bucket": 1000
-        },
-        {
             "hash": "v2",
             "salt": "salt-925",
             "key": "user-25",
             "bucket": 68673
-        },
-        {
-            "hash": "legacy",
-            "salt": "962",
-            "key": "session-4e732ced3463",
-            "bucket": 3000
         },
         {
             "hash": "v2",
@@ -314,22 +158,10 @@
             "bucket": 37164
         },
         {
-            "hash": "legacy",
-            "salt": "2",
-            "key": "ünïcødé-27",
-            "bucket": 81000
-        },
-        {
             "hash": "v2",
             "salt": "salt-2",
             "key": "ünïcødé-27",
             "bucket": 10902
-        },
-        {
-            "hash": "legacy",
-            "salt": "39",
-            "key": "28000084",
-            "bucket": 68000
         },
         {
             "hash": "v2",
@@ -338,22 +170,10 @@
             "bucket": 84193
         },
         {
-            "hash": "legacy",
-            "salt": "76",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx29",
-            "bucket": 72000
-        },
-        {
             "hash": "v2",
             "salt": "salt-76",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx29",
             "bucket": 36828
-        },
-        {
-            "hash": "legacy",
-            "salt": "113",
-            "key": "user-30",
-            "bucket": 16000
         },
         {
             "hash": "v2",
@@ -362,22 +182,10 @@
             "bucket": 16365
         },
         {
-            "hash": "legacy",
-            "salt": "150",
-            "key": "session-c16a5320fa47",
-            "bucket": 90000
-        },
-        {
             "hash": "v2",
             "salt": "salt-150",
             "key": "session-c16a5320fa47",
             "bucket": 87033
-        },
-        {
-            "hash": "legacy",
-            "salt": "187",
-            "key": "ünïcødé-32",
-            "bucket": 23000
         },
         {
             "hash": "v2",
@@ -386,22 +194,10 @@
             "bucket": 33491
         },
         {
-            "hash": "legacy",
-            "salt": "224",
-            "key": "33000099",
-            "bucket": 67000
-        },
-        {
             "hash": "v2",
             "salt": "salt-224",
             "key": "33000099",
             "bucket": 70126
-        },
-        {
-            "hash": "legacy",
-            "salt": "261",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx34",
-            "bucket": 96000
         },
         {
             "hash": "v2",
@@ -410,22 +206,10 @@
             "bucket": 3063
         },
         {
-            "hash": "legacy",
-            "salt": "298",
-            "key": "user-35",
-            "bucket": 62000
-        },
-        {
             "hash": "v2",
             "salt": "salt-298",
             "key": "user-35",
             "bucket": 44866
-        },
-        {
-            "hash": "legacy",
-            "salt": "335",
-            "key": "session-19ca14e7ea63",
-            "bucket": 12000
         },
         {
             "hash": "v2",
@@ -434,22 +218,10 @@
             "bucket": 35344
         },
         {
-            "hash": "legacy",
-            "salt": "372",
-            "key": "ünïcødé-37",
-            "bucket": 59000
-        },
-        {
             "hash": "v2",
             "salt": "salt-372",
             "key": "ünïcødé-37",
             "bucket": 17520
-        },
-        {
-            "hash": "legacy",
-            "salt": "409",
-            "key": "38000114",
-            "bucket": 2000
         },
         {
             "hash": "v2",
@@ -458,22 +230,10 @@
             "bucket": 72221
         },
         {
-            "hash": "legacy",
-            "salt": "446",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx39",
-            "bucket": 85000
-        },
-        {
             "hash": "v2",
             "salt": "salt-446",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx39",
             "bucket": 2476
-        },
-        {
-            "hash": "legacy",
-            "salt": "483",
-            "key": "user-40",
-            "bucket": 3000
         },
         {
             "hash": "v2",
@@ -482,22 +242,10 @@
             "bucket": 46949
         },
         {
-            "hash": "legacy",
-            "salt": "520",
-            "key": "session-3416a75f4cea",
-            "bucket": 4000
-        },
-        {
             "hash": "v2",
             "salt": "salt-520",
             "key": "session-3416a75f4cea",
             "bucket": 74765
-        },
-        {
-            "hash": "legacy",
-            "salt": "557",
-            "key": "ünïcødé-42",
-            "bucket": 62000
         },
         {
             "hash": "v2",
@@ -506,22 +254,10 @@
             "bucket": 28796
         },
         {
-            "hash": "legacy",
-            "salt": "594",
-            "key": "43000129",
-            "bucket": 16000
-        },
-        {
             "hash": "v2",
             "salt": "salt-594",
             "key": "43000129",
             "bucket": 92804
-        },
-        {
-            "hash": "legacy",
-            "salt": "631",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx44",
-            "bucket": 94000
         },
         {
             "hash": "v2",
@@ -530,22 +266,10 @@
             "bucket": 80045
         },
         {
-            "hash": "legacy",
-            "salt": "668",
-            "key": "user-45",
-            "bucket": 11000
-        },
-        {
             "hash": "v2",
             "salt": "salt-668",
             "key": "user-45",
             "bucket": 7947
-        },
-        {
-            "hash": "legacy",
-            "salt": "705",
-            "key": "session-d9d4f495e875",
-            "bucket": 14000
         },
         {
             "hash": "v2",
@@ -554,22 +278,10 @@
             "bucket": 7754
         },
         {
-            "hash": "legacy",
-            "salt": "742",
-            "key": "ünïcødé-47",
-            "bucket": 40000
-        },
-        {
             "hash": "v2",
             "salt": "salt-742",
             "key": "ünïcødé-47",
             "bucket": 229
-        },
-        {
-            "hash": "legacy",
-            "salt": "779",
-            "key": "48000144",
-            "bucket": 89000
         },
         {
             "hash": "v2",
@@ -578,22 +290,10 @@
             "bucket": 70225
         },
         {
-            "hash": "legacy",
-            "salt": "816",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx49",
-            "bucket": 30000
-        },
-        {
             "hash": "v2",
             "salt": "salt-816",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx49",
             "bucket": 79243
-        },
-        {
-            "hash": "legacy",
-            "salt": "853",
-            "key": "user-50",
-            "bucket": 25000
         },
         {
             "hash": "v2",
@@ -602,22 +302,10 @@
             "bucket": 71462
         },
         {
-            "hash": "legacy",
-            "salt": "890",
-            "key": "session-2838023a778d",
-            "bucket": 68000
-        },
-        {
             "hash": "v2",
             "salt": "salt-890",
             "key": "session-2838023a778d",
             "bucket": 90479
-        },
-        {
-            "hash": "legacy",
-            "salt": "927",
-            "key": "ünïcødé-52",
-            "bucket": 50000
         },
         {
             "hash": "v2",
@@ -626,22 +314,10 @@
             "bucket": 84588
         },
         {
-            "hash": "legacy",
-            "salt": "964",
-            "key": "53000159",
-            "bucket": 13000
-        },
-        {
             "hash": "v2",
             "salt": "salt-964",
             "key": "53000159",
             "bucket": 90294
-        },
-        {
-            "hash": "legacy",
-            "salt": "4",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx54",
-            "bucket": 47000
         },
         {
             "hash": "v2",
@@ -650,22 +326,10 @@
             "bucket": 79095
         },
         {
-            "hash": "legacy",
-            "salt": "41",
-            "key": "user-55",
-            "bucket": 63000
-        },
-        {
             "hash": "v2",
             "salt": "salt-41",
             "key": "user-55",
             "bucket": 12900
-        },
-        {
-            "hash": "legacy",
-            "salt": "78",
-            "key": "session-9f61408e3afb",
-            "bucket": 31000
         },
         {
             "hash": "v2",
@@ -674,22 +338,10 @@
             "bucket": 36905
         },
         {
-            "hash": "legacy",
-            "salt": "115",
-            "key": "ünïcødé-57",
-            "bucket": 65000
-        },
-        {
             "hash": "v2",
             "salt": "salt-115",
             "key": "ünïcødé-57",
             "bucket": 94546
-        },
-        {
-            "hash": "legacy",
-            "salt": "152",
-            "key": "58000174",
-            "bucket": 91000
         },
         {
             "hash": "v2",
@@ -698,22 +350,10 @@
             "bucket": 88706
         },
         {
-            "hash": "legacy",
-            "salt": "189",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx59",
-            "bucket": 54000
-        },
-        {
             "hash": "v2",
             "salt": "salt-189",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx59",
             "bucket": 18603
-        },
-        {
-            "hash": "legacy",
-            "salt": "226",
-            "key": "user-60",
-            "bucket": 69000
         },
         {
             "hash": "v2",
@@ -722,22 +362,10 @@
             "bucket": 1925
         },
         {
-            "hash": "legacy",
-            "salt": "263",
-            "key": "session-7f39f8317fbd",
-            "bucket": 83000
-        },
-        {
             "hash": "v2",
             "salt": "salt-263",
             "key": "session-7f39f8317fbd",
             "bucket": 4202
-        },
-        {
-            "hash": "legacy",
-            "salt": "300",
-            "key": "ünïcødé-62",
-            "bucket": 75000
         },
         {
             "hash": "v2",
@@ -746,22 +374,10 @@
             "bucket": 43067
         },
         {
-            "hash": "legacy",
-            "salt": "337",
-            "key": "63000189",
-            "bucket": 88000
-        },
-        {
             "hash": "v2",
             "salt": "salt-337",
             "key": "63000189",
             "bucket": 85333
-        },
-        {
-            "hash": "legacy",
-            "salt": "374",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx64",
-            "bucket": 54000
         },
         {
             "hash": "v2",
@@ -770,22 +386,10 @@
             "bucket": 25207
         },
         {
-            "hash": "legacy",
-            "salt": "411",
-            "key": "user-65",
-            "bucket": 13000
-        },
-        {
             "hash": "v2",
             "salt": "salt-411",
             "key": "user-65",
             "bucket": 6824
-        },
-        {
-            "hash": "legacy",
-            "salt": "448",
-            "key": "session-3295c76acbf4",
-            "bucket": 43000
         },
         {
             "hash": "v2",
@@ -794,22 +398,10 @@
             "bucket": 64513
         },
         {
-            "hash": "legacy",
-            "salt": "485",
-            "key": "ünïcødé-67",
-            "bucket": 71000
-        },
-        {
             "hash": "v2",
             "salt": "salt-485",
             "key": "ünïcødé-67",
             "bucket": 88026
-        },
-        {
-            "hash": "legacy",
-            "salt": "522",
-            "key": "68000204",
-            "bucket": 52000
         },
         {
             "hash": "v2",
@@ -818,22 +410,10 @@
             "bucket": 95145
         },
         {
-            "hash": "legacy",
-            "salt": "559",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx69",
-            "bucket": 22000
-        },
-        {
             "hash": "v2",
             "salt": "salt-559",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx69",
             "bucket": 91953
-        },
-        {
-            "hash": "legacy",
-            "salt": "596",
-            "key": "user-70",
-            "bucket": 22000
         },
         {
             "hash": "v2",
@@ -842,22 +422,10 @@
             "bucket": 7283
         },
         {
-            "hash": "legacy",
-            "salt": "633",
-            "key": "session-e2c420d928d4",
-            "bucket": 49000
-        },
-        {
             "hash": "v2",
             "salt": "salt-633",
             "key": "session-e2c420d928d4",
             "bucket": 74836
-        },
-        {
-            "hash": "legacy",
-            "salt": "670",
-            "key": "ünïcødé-72",
-            "bucket": 50000
         },
         {
             "hash": "v2",
@@ -866,22 +434,10 @@
             "bucket": 6860
         },
         {
-            "hash": "legacy",
-            "salt": "707",
-            "key": "73000219",
-            "bucket": 55000
-        },
-        {
             "hash": "v2",
             "salt": "salt-707",
             "key": "73000219",
             "bucket": 162
-        },
-        {
-            "hash": "legacy",
-            "salt": "744",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx74",
-            "bucket": 29000
         },
         {
             "hash": "v2",
@@ -890,22 +446,10 @@
             "bucket": 71636
         },
         {
-            "hash": "legacy",
-            "salt": "781",
-            "key": "user-75",
-            "bucket": 28000
-        },
-        {
             "hash": "v2",
             "salt": "salt-781",
             "key": "user-75",
             "bucket": 53948
-        },
-        {
-            "hash": "legacy",
-            "salt": "818",
-            "key": "session-fbd7939d6749",
-            "bucket": 4000
         },
         {
             "hash": "v2",
@@ -914,22 +458,10 @@
             "bucket": 98429
         },
         {
-            "hash": "legacy",
-            "salt": "855",
-            "key": "ünïcødé-77",
-            "bucket": 6000
-        },
-        {
             "hash": "v2",
             "salt": "salt-855",
             "key": "ünïcødé-77",
             "bucket": 76126
-        },
-        {
-            "hash": "legacy",
-            "salt": "892",
-            "key": "78000234",
-            "bucket": 91000
         },
         {
             "hash": "v2",
@@ -938,22 +470,10 @@
             "bucket": 18635
         },
         {
-            "hash": "legacy",
-            "salt": "929",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx79",
-            "bucket": 88000
-        },
-        {
             "hash": "v2",
             "salt": "salt-929",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx79",
             "bucket": 72252
-        },
-        {
-            "hash": "legacy",
-            "salt": "966",
-            "key": "user-80",
-            "bucket": 98000
         },
         {
             "hash": "v2",
@@ -962,22 +482,10 @@
             "bucket": 4267
         },
         {
-            "hash": "legacy",
-            "salt": "6",
-            "key": "session-43ec517d68b6",
-            "bucket": 59000
-        },
-        {
             "hash": "v2",
             "salt": "salt-6",
             "key": "session-43ec517d68b6",
             "bucket": 67644
-        },
-        {
-            "hash": "legacy",
-            "salt": "43",
-            "key": "ünïcødé-82",
-            "bucket": 37000
         },
         {
             "hash": "v2",
@@ -986,22 +494,10 @@
             "bucket": 7092
         },
         {
-            "hash": "legacy",
-            "salt": "80",
-            "key": "83000249",
-            "bucket": 64000
-        },
-        {
             "hash": "v2",
             "salt": "salt-80",
             "key": "83000249",
             "bucket": 95325
-        },
-        {
-            "hash": "legacy",
-            "salt": "117",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx84",
-            "bucket": 4000
         },
         {
             "hash": "v2",
@@ -1010,22 +506,10 @@
             "bucket": 69915
         },
         {
-            "hash": "legacy",
-            "salt": "154",
-            "key": "user-85",
-            "bucket": 99000
-        },
-        {
             "hash": "v2",
             "salt": "salt-154",
             "key": "user-85",
             "bucket": 85946
-        },
-        {
-            "hash": "legacy",
-            "salt": "191",
-            "key": "session-93db85ed909c",
-            "bucket": 32000
         },
         {
             "hash": "v2",
@@ -1034,22 +518,10 @@
             "bucket": 25614
         },
         {
-            "hash": "legacy",
-            "salt": "228",
-            "key": "ünïcødé-87",
-            "bucket": 84000
-        },
-        {
             "hash": "v2",
             "salt": "salt-228",
             "key": "ünïcødé-87",
             "bucket": 84529
-        },
-        {
-            "hash": "legacy",
-            "salt": "265",
-            "key": "88000264",
-            "bucket": 16000
         },
         {
             "hash": "v2",
@@ -1058,22 +530,10 @@
             "bucket": 65074
         },
         {
-            "hash": "legacy",
-            "salt": "302",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx89",
-            "bucket": 85000
-        },
-        {
             "hash": "v2",
             "salt": "salt-302",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx89",
             "bucket": 35065
-        },
-        {
-            "hash": "legacy",
-            "salt": "339",
-            "key": "user-90",
-            "bucket": 77000
         },
         {
             "hash": "v2",
@@ -1082,22 +542,10 @@
             "bucket": 1807
         },
         {
-            "hash": "legacy",
-            "salt": "376",
-            "key": "session-54229abfcfa5",
-            "bucket": 57000
-        },
-        {
             "hash": "v2",
             "salt": "salt-376",
             "key": "session-54229abfcfa5",
             "bucket": 71694
-        },
-        {
-            "hash": "legacy",
-            "salt": "413",
-            "key": "ünïcødé-92",
-            "bucket": 32000
         },
         {
             "hash": "v2",
@@ -1106,22 +554,10 @@
             "bucket": 63990
         },
         {
-            "hash": "legacy",
-            "salt": "450",
-            "key": "93000279",
-            "bucket": 18000
-        },
-        {
             "hash": "v2",
             "salt": "salt-450",
             "key": "93000279",
             "bucket": 25832
-        },
-        {
-            "hash": "legacy",
-            "salt": "487",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx94",
-            "bucket": 94000
         },
         {
             "hash": "v2",
@@ -1130,22 +566,10 @@
             "bucket": 89832
         },
         {
-            "hash": "legacy",
-            "salt": "524",
-            "key": "user-95",
-            "bucket": 97000
-        },
-        {
             "hash": "v2",
             "salt": "salt-524",
             "key": "user-95",
             "bucket": 13229
-        },
-        {
-            "hash": "legacy",
-            "salt": "561",
-            "key": "session-26657d5ff902",
-            "bucket": 77000
         },
         {
             "hash": "v2",
@@ -1154,22 +578,10 @@
             "bucket": 27060
         },
         {
-            "hash": "legacy",
-            "salt": "598",
-            "key": "ünïcødé-97",
-            "bucket": 33000
-        },
-        {
             "hash": "v2",
             "salt": "salt-598",
             "key": "ünïcødé-97",
             "bucket": 25939
-        },
-        {
-            "hash": "legacy",
-            "salt": "635",
-            "key": "98000294",
-            "bucket": 77000
         },
         {
             "hash": "v2",
@@ -1178,22 +590,10 @@
             "bucket": 15266
         },
         {
-            "hash": "legacy",
-            "salt": "672",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx99",
-            "bucket": 64000
-        },
-        {
             "hash": "v2",
             "salt": "salt-672",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx99",
             "bucket": 3633
-        },
-        {
-            "hash": "legacy",
-            "salt": "709",
-            "key": "user-100",
-            "bucket": 41000
         },
         {
             "hash": "v2",
@@ -1202,22 +602,10 @@
             "bucket": 2107
         },
         {
-            "hash": "legacy",
-            "salt": "746",
-            "key": "session-38b3eff8baf5",
-            "bucket": 84000
-        },
-        {
             "hash": "v2",
             "salt": "salt-746",
             "key": "session-38b3eff8baf5",
             "bucket": 92206
-        },
-        {
-            "hash": "legacy",
-            "salt": "783",
-            "key": "ünïcødé-102",
-            "bucket": 46000
         },
         {
             "hash": "v2",
@@ -1226,22 +614,10 @@
             "bucket": 36679
         },
         {
-            "hash": "legacy",
-            "salt": "820",
-            "key": "103000309",
-            "bucket": 25000
-        },
-        {
             "hash": "v2",
             "salt": "salt-820",
             "key": "103000309",
             "bucket": 48929
-        },
-        {
-            "hash": "legacy",
-            "salt": "857",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx104",
-            "bucket": 9000
         },
         {
             "hash": "v2",
@@ -1250,22 +626,10 @@
             "bucket": 24331
         },
         {
-            "hash": "legacy",
-            "salt": "894",
-            "key": "user-105",
-            "bucket": 38000
-        },
-        {
             "hash": "v2",
             "salt": "salt-894",
             "key": "user-105",
             "bucket": 37205
-        },
-        {
-            "hash": "legacy",
-            "salt": "931",
-            "key": "session-f0935e4cd592",
-            "bucket": 54000
         },
         {
             "hash": "v2",
@@ -1274,22 +638,10 @@
             "bucket": 8291
         },
         {
-            "hash": "legacy",
-            "salt": "968",
-            "key": "ünïcødé-107",
-            "bucket": 87000
-        },
-        {
             "hash": "v2",
             "salt": "salt-968",
             "key": "ünïcødé-107",
             "bucket": 49197
-        },
-        {
-            "hash": "legacy",
-            "salt": "8",
-            "key": "108000324",
-            "bucket": 94000
         },
         {
             "hash": "v2",
@@ -1298,22 +650,10 @@
             "bucket": 86318
         },
         {
-            "hash": "legacy",
-            "salt": "45",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx109",
-            "bucket": 79000
-        },
-        {
             "hash": "v2",
             "salt": "salt-45",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx109",
             "bucket": 78772
-        },
-        {
-            "hash": "legacy",
-            "salt": "82",
-            "key": "user-110",
-            "bucket": 76000
         },
         {
             "hash": "v2",
@@ -1322,22 +662,10 @@
             "bucket": 25073
         },
         {
-            "hash": "legacy",
-            "salt": "119",
-            "key": "session-698d51a19d8a",
-            "bucket": 46000
-        },
-        {
             "hash": "v2",
             "salt": "salt-119",
             "key": "session-698d51a19d8a",
             "bucket": 21390
-        },
-        {
-            "hash": "legacy",
-            "salt": "156",
-            "key": "ünïcødé-112",
-            "bucket": 14000
         },
         {
             "hash": "v2",
@@ -1346,22 +674,10 @@
             "bucket": 20857
         },
         {
-            "hash": "legacy",
-            "salt": "193",
-            "key": "113000339",
-            "bucket": 65000
-        },
-        {
             "hash": "v2",
             "salt": "salt-193",
             "key": "113000339",
             "bucket": 13526
-        },
-        {
-            "hash": "legacy",
-            "salt": "230",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx114",
-            "bucket": 73000
         },
         {
             "hash": "v2",
@@ -1370,22 +686,10 @@
             "bucket": 39697
         },
         {
-            "hash": "legacy",
-            "salt": "267",
-            "key": "user-115",
-            "bucket": 48000
-        },
-        {
             "hash": "v2",
             "salt": "salt-267",
             "key": "user-115",
             "bucket": 3041
-        },
-        {
-            "hash": "legacy",
-            "salt": "304",
-            "key": "session-c45147dee729",
-            "bucket": 22000
         },
         {
             "hash": "v2",
@@ -1394,22 +698,10 @@
             "bucket": 28408
         },
         {
-            "hash": "legacy",
-            "salt": "341",
-            "key": "ünïcødé-117",
-            "bucket": 73000
-        },
-        {
             "hash": "v2",
             "salt": "salt-341",
             "key": "ünïcødé-117",
             "bucket": 17610
-        },
-        {
-            "hash": "legacy",
-            "salt": "378",
-            "key": "118000354",
-            "bucket": 18000
         },
         {
             "hash": "v2",
@@ -1418,22 +710,10 @@
             "bucket": 15088
         },
         {
-            "hash": "legacy",
-            "salt": "415",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx119",
-            "bucket": 57000
-        },
-        {
             "hash": "v2",
             "salt": "salt-415",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx119",
             "bucket": 11238
-        },
-        {
-            "hash": "legacy",
-            "salt": "452",
-            "key": "user-120",
-            "bucket": 73000
         },
         {
             "hash": "v2",
@@ -1442,22 +722,10 @@
             "bucket": 79160
         },
         {
-            "hash": "legacy",
-            "salt": "489",
-            "key": "session-4c56ff4ce4aa",
-            "bucket": 89000
-        },
-        {
             "hash": "v2",
             "salt": "salt-489",
             "key": "session-4c56ff4ce4aa",
             "bucket": 57591
-        },
-        {
-            "hash": "legacy",
-            "salt": "526",
-            "key": "ünïcødé-122",
-            "bucket": 59000
         },
         {
             "hash": "v2",
@@ -1466,22 +734,10 @@
             "bucket": 30925
         },
         {
-            "hash": "legacy",
-            "salt": "563",
-            "key": "123000369",
-            "bucket": 73000
-        },
-        {
             "hash": "v2",
             "salt": "salt-563",
             "key": "123000369",
             "bucket": 12157
-        },
-        {
-            "hash": "legacy",
-            "salt": "600",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx124",
-            "bucket": 27000
         },
         {
             "hash": "v2",
@@ -1490,22 +746,10 @@
             "bucket": 53004
         },
         {
-            "hash": "legacy",
-            "salt": "637",
-            "key": "user-125",
-            "bucket": 6000
-        },
-        {
             "hash": "v2",
             "salt": "salt-637",
             "key": "user-125",
             "bucket": 85303
-        },
-        {
-            "hash": "legacy",
-            "salt": "674",
-            "key": "session-069059b7ef84",
-            "bucket": 6000
         },
         {
             "hash": "v2",
@@ -1514,22 +758,10 @@
             "bucket": 76007
         },
         {
-            "hash": "legacy",
-            "salt": "711",
-            "key": "ünïcødé-127",
-            "bucket": 72000
-        },
-        {
             "hash": "v2",
             "salt": "salt-711",
             "key": "ünïcødé-127",
             "bucket": 1876
-        },
-        {
-            "hash": "legacy",
-            "salt": "748",
-            "key": "128000384",
-            "bucket": 66000
         },
         {
             "hash": "v2",
@@ -1538,22 +770,10 @@
             "bucket": 90310
         },
         {
-            "hash": "legacy",
-            "salt": "785",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx129",
-            "bucket": 88000
-        },
-        {
             "hash": "v2",
             "salt": "salt-785",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx129",
             "bucket": 25167
-        },
-        {
-            "hash": "legacy",
-            "salt": "822",
-            "key": "user-130",
-            "bucket": 22000
         },
         {
             "hash": "v2",
@@ -1562,22 +782,10 @@
             "bucket": 94584
         },
         {
-            "hash": "legacy",
-            "salt": "859",
-            "key": "session-1afa34a7f984",
-            "bucket": 6000
-        },
-        {
             "hash": "v2",
             "salt": "salt-859",
             "key": "session-1afa34a7f984",
             "bucket": 86548
-        },
-        {
-            "hash": "legacy",
-            "salt": "896",
-            "key": "ünïcødé-132",
-            "bucket": 47000
         },
         {
             "hash": "v2",
@@ -1586,22 +794,10 @@
             "bucket": 24515
         },
         {
-            "hash": "legacy",
-            "salt": "933",
-            "key": "133000399",
-            "bucket": 33000
-        },
-        {
             "hash": "v2",
             "salt": "salt-933",
             "key": "133000399",
             "bucket": 94763
-        },
-        {
-            "hash": "legacy",
-            "salt": "970",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx134",
-            "bucket": 37000
         },
         {
             "hash": "v2",
@@ -1610,22 +806,10 @@
             "bucket": 84499
         },
         {
-            "hash": "legacy",
-            "salt": "10",
-            "key": "user-135",
-            "bucket": 82000
-        },
-        {
             "hash": "v2",
             "salt": "salt-10",
             "key": "user-135",
             "bucket": 67317
-        },
-        {
-            "hash": "legacy",
-            "salt": "47",
-            "key": "session-42a0e188f503",
-            "bucket": 34000
         },
         {
             "hash": "v2",
@@ -1634,22 +818,10 @@
             "bucket": 75082
         },
         {
-            "hash": "legacy",
-            "salt": "84",
-            "key": "ünïcødé-137",
-            "bucket": 94000
-        },
-        {
             "hash": "v2",
             "salt": "salt-84",
             "key": "ünïcødé-137",
             "bucket": 95116
-        },
-        {
-            "hash": "legacy",
-            "salt": "121",
-            "key": "138000414",
-            "bucket": 89000
         },
         {
             "hash": "v2",
@@ -1658,22 +830,10 @@
             "bucket": 7399
         },
         {
-            "hash": "legacy",
-            "salt": "158",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx139",
-            "bucket": 98000
-        },
-        {
             "hash": "v2",
             "salt": "salt-158",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx139",
             "bucket": 92508
-        },
-        {
-            "hash": "legacy",
-            "salt": "195",
-            "key": "user-140",
-            "bucket": 33000
         },
         {
             "hash": "v2",
@@ -1682,22 +842,10 @@
             "bucket": 91987
         },
         {
-            "hash": "legacy",
-            "salt": "232",
-            "key": "session-0f28b5d49b30",
-            "bucket": 76000
-        },
-        {
             "hash": "v2",
             "salt": "salt-232",
             "key": "session-0f28b5d49b30",
             "bucket": 38211
-        },
-        {
-            "hash": "legacy",
-            "salt": "269",
-            "key": "ünïcødé-142",
-            "bucket": 50000
         },
         {
             "hash": "v2",
@@ -1706,22 +854,10 @@
             "bucket": 48223
         },
         {
-            "hash": "legacy",
-            "salt": "306",
-            "key": "143000429",
-            "bucket": 27000
-        },
-        {
             "hash": "v2",
             "salt": "salt-306",
             "key": "143000429",
             "bucket": 63126
-        },
-        {
-            "hash": "legacy",
-            "salt": "343",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx144",
-            "bucket": 32000
         },
         {
             "hash": "v2",
@@ -1730,22 +866,10 @@
             "bucket": 20337
         },
         {
-            "hash": "legacy",
-            "salt": "380",
-            "key": "user-145",
-            "bucket": 17000
-        },
-        {
             "hash": "v2",
             "salt": "salt-380",
             "key": "user-145",
             "bucket": 32276
-        },
-        {
-            "hash": "legacy",
-            "salt": "417",
-            "key": "session-a5e00132373a",
-            "bucket": 14000
         },
         {
             "hash": "v2",
@@ -1754,22 +878,10 @@
             "bucket": 81893
         },
         {
-            "hash": "legacy",
-            "salt": "454",
-            "key": "ünïcødé-147",
-            "bucket": 47000
-        },
-        {
             "hash": "v2",
             "salt": "salt-454",
             "key": "ünïcødé-147",
             "bucket": 7399
-        },
-        {
-            "hash": "legacy",
-            "salt": "491",
-            "key": "148000444",
-            "bucket": 52000
         },
         {
             "hash": "v2",
@@ -1778,22 +890,10 @@
             "bucket": 97002
         },
         {
-            "hash": "legacy",
-            "salt": "528",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx149",
-            "bucket": 98000
-        },
-        {
             "hash": "v2",
             "salt": "salt-528",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx149",
             "bucket": 88550
-        },
-        {
-            "hash": "legacy",
-            "salt": "565",
-            "key": "user-150",
-            "bucket": 44000
         },
         {
             "hash": "v2",
@@ -1802,22 +902,10 @@
             "bucket": 2285
         },
         {
-            "hash": "legacy",
-            "salt": "602",
-            "key": "session-a8f15eda80c5",
-            "bucket": 55000
-        },
-        {
             "hash": "v2",
             "salt": "salt-602",
             "key": "session-a8f15eda80c5",
             "bucket": 91623
-        },
-        {
-            "hash": "legacy",
-            "salt": "639",
-            "key": "ünïcødé-152",
-            "bucket": 67000
         },
         {
             "hash": "v2",
@@ -1826,22 +914,10 @@
             "bucket": 60731
         },
         {
-            "hash": "legacy",
-            "salt": "676",
-            "key": "153000459",
-            "bucket": 31000
-        },
-        {
             "hash": "v2",
             "salt": "salt-676",
             "key": "153000459",
             "bucket": 28453
-        },
-        {
-            "hash": "legacy",
-            "salt": "713",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx154",
-            "bucket": 95000
         },
         {
             "hash": "v2",
@@ -1850,22 +926,10 @@
             "bucket": 52030
         },
         {
-            "hash": "legacy",
-            "salt": "750",
-            "key": "user-155",
-            "bucket": 4000
-        },
-        {
             "hash": "v2",
             "salt": "salt-750",
             "key": "user-155",
             "bucket": 68879
-        },
-        {
-            "hash": "legacy",
-            "salt": "787",
-            "key": "session-1c9ac0159c94",
-            "bucket": 19000
         },
         {
             "hash": "v2",
@@ -1874,22 +938,10 @@
             "bucket": 67648
         },
         {
-            "hash": "legacy",
-            "salt": "824",
-            "key": "ünïcødé-157",
-            "bucket": 29000
-        },
-        {
             "hash": "v2",
             "salt": "salt-824",
             "key": "ünïcødé-157",
             "bucket": 70037
-        },
-        {
-            "hash": "legacy",
-            "salt": "861",
-            "key": "158000474",
-            "bucket": 77000
         },
         {
             "hash": "v2",
@@ -1898,22 +950,10 @@
             "bucket": 27890
         },
         {
-            "hash": "legacy",
-            "salt": "898",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx159",
-            "bucket": 27000
-        },
-        {
             "hash": "v2",
             "salt": "salt-898",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx159",
             "bucket": 29692
-        },
-        {
-            "hash": "legacy",
-            "salt": "935",
-            "key": "user-160",
-            "bucket": 15000
         },
         {
             "hash": "v2",
@@ -1922,22 +962,10 @@
             "bucket": 64911
         },
         {
-            "hash": "legacy",
-            "salt": "972",
-            "key": "session-bd4c9ab730f5",
-            "bucket": 74000
-        },
-        {
             "hash": "v2",
             "salt": "salt-972",
             "key": "session-bd4c9ab730f5",
             "bucket": 19635
-        },
-        {
-            "hash": "legacy",
-            "salt": "12",
-            "key": "ünïcødé-162",
-            "bucket": 51000
         },
         {
             "hash": "v2",
@@ -1946,22 +974,10 @@
             "bucket": 49922
         },
         {
-            "hash": "legacy",
-            "salt": "49",
-            "key": "163000489",
-            "bucket": 38000
-        },
-        {
             "hash": "v2",
             "salt": "salt-49",
             "key": "163000489",
             "bucket": 69009
-        },
-        {
-            "hash": "legacy",
-            "salt": "86",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx164",
-            "bucket": 30000
         },
         {
             "hash": "v2",
@@ -1970,22 +986,10 @@
             "bucket": 28660
         },
         {
-            "hash": "legacy",
-            "salt": "123",
-            "key": "user-165",
-            "bucket": 80000
-        },
-        {
             "hash": "v2",
             "salt": "salt-123",
             "key": "user-165",
             "bucket": 81076
-        },
-        {
-            "hash": "legacy",
-            "salt": "160",
-            "key": "session-7e7757b1e12a",
-            "bucket": 96000
         },
         {
             "hash": "v2",
@@ -1994,22 +998,10 @@
             "bucket": 33442
         },
         {
-            "hash": "legacy",
-            "salt": "197",
-            "key": "ünïcødé-167",
-            "bucket": 67000
-        },
-        {
             "hash": "v2",
             "salt": "salt-197",
             "key": "ünïcødé-167",
             "bucket": 1954
-        },
-        {
-            "hash": "legacy",
-            "salt": "234",
-            "key": "168000504",
-            "bucket": 77000
         },
         {
             "hash": "v2",
@@ -2018,22 +1010,10 @@
             "bucket": 13564
         },
         {
-            "hash": "legacy",
-            "salt": "271",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx169",
-            "bucket": 67000
-        },
-        {
             "hash": "v2",
             "salt": "salt-271",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx169",
             "bucket": 271
-        },
-        {
-            "hash": "legacy",
-            "salt": "308",
-            "key": "user-170",
-            "bucket": 66000
         },
         {
             "hash": "v2",
@@ -2042,22 +1022,10 @@
             "bucket": 79932
         },
         {
-            "hash": "legacy",
-            "salt": "345",
-            "key": "session-a4a042cf4fd6",
-            "bucket": 0
-        },
-        {
             "hash": "v2",
             "salt": "salt-345",
             "key": "session-a4a042cf4fd6",
             "bucket": 9831
-        },
-        {
-            "hash": "legacy",
-            "salt": "382",
-            "key": "ünïcødé-172",
-            "bucket": 2000
         },
         {
             "hash": "v2",
@@ -2066,22 +1034,10 @@
             "bucket": 62798
         },
         {
-            "hash": "legacy",
-            "salt": "419",
-            "key": "173000519",
-            "bucket": 51000
-        },
-        {
             "hash": "v2",
             "salt": "salt-419",
             "key": "173000519",
             "bucket": 87045
-        },
-        {
-            "hash": "legacy",
-            "salt": "456",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx174",
-            "bucket": 36000
         },
         {
             "hash": "v2",
@@ -2090,22 +1046,10 @@
             "bucket": 91174
         },
         {
-            "hash": "legacy",
-            "salt": "493",
-            "key": "user-175",
-            "bucket": 85000
-        },
-        {
             "hash": "v2",
             "salt": "salt-493",
             "key": "user-175",
             "bucket": 3523
-        },
-        {
-            "hash": "legacy",
-            "salt": "530",
-            "key": "session-38af86134b65",
-            "bucket": 97000
         },
         {
             "hash": "v2",
@@ -2114,22 +1058,10 @@
             "bucket": 38752
         },
         {
-            "hash": "legacy",
-            "salt": "567",
-            "key": "ünïcødé-177",
-            "bucket": 83000
-        },
-        {
             "hash": "v2",
             "salt": "salt-567",
             "key": "ünïcødé-177",
             "bucket": 53129
-        },
-        {
-            "hash": "legacy",
-            "salt": "604",
-            "key": "178000534",
-            "bucket": 14000
         },
         {
             "hash": "v2",
@@ -2138,22 +1070,10 @@
             "bucket": 31737
         },
         {
-            "hash": "legacy",
-            "salt": "641",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx179",
-            "bucket": 15000
-        },
-        {
             "hash": "v2",
             "salt": "salt-641",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx179",
             "bucket": 1128
-        },
-        {
-            "hash": "legacy",
-            "salt": "678",
-            "key": "user-180",
-            "bucket": 71000
         },
         {
             "hash": "v2",
@@ -2162,22 +1082,10 @@
             "bucket": 59037
         },
         {
-            "hash": "legacy",
-            "salt": "715",
-            "key": "session-fc2213097460",
-            "bucket": 3000
-        },
-        {
             "hash": "v2",
             "salt": "salt-715",
             "key": "session-fc2213097460",
             "bucket": 16166
-        },
-        {
-            "hash": "legacy",
-            "salt": "752",
-            "key": "ünïcødé-182",
-            "bucket": 59000
         },
         {
             "hash": "v2",
@@ -2186,22 +1094,10 @@
             "bucket": 70197
         },
         {
-            "hash": "legacy",
-            "salt": "789",
-            "key": "183000549",
-            "bucket": 33000
-        },
-        {
             "hash": "v2",
             "salt": "salt-789",
             "key": "183000549",
             "bucket": 85306
-        },
-        {
-            "hash": "legacy",
-            "salt": "826",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx184",
-            "bucket": 40000
         },
         {
             "hash": "v2",
@@ -2210,22 +1106,10 @@
             "bucket": 33269
         },
         {
-            "hash": "legacy",
-            "salt": "863",
-            "key": "user-185",
-            "bucket": 64000
-        },
-        {
             "hash": "v2",
             "salt": "salt-863",
             "key": "user-185",
             "bucket": 55790
-        },
-        {
-            "hash": "legacy",
-            "salt": "900",
-            "key": "session-9872ed9fc22f",
-            "bucket": 88000
         },
         {
             "hash": "v2",
@@ -2234,22 +1118,10 @@
             "bucket": 75348
         },
         {
-            "hash": "legacy",
-            "salt": "937",
-            "key": "ünïcødé-187",
-            "bucket": 91000
-        },
-        {
             "hash": "v2",
             "salt": "salt-937",
             "key": "ünïcødé-187",
             "bucket": 63435
-        },
-        {
-            "hash": "legacy",
-            "salt": "974",
-            "key": "188000564",
-            "bucket": 17000
         },
         {
             "hash": "v2",
@@ -2258,22 +1130,10 @@
             "bucket": 67550
         },
         {
-            "hash": "legacy",
-            "salt": "14",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx189",
-            "bucket": 24000
-        },
-        {
             "hash": "v2",
             "salt": "salt-14",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx189",
             "bucket": 75169
-        },
-        {
-            "hash": "legacy",
-            "salt": "51",
-            "key": "user-190",
-            "bucket": 6000
         },
         {
             "hash": "v2",
@@ -2282,22 +1142,10 @@
             "bucket": 53609
         },
         {
-            "hash": "legacy",
-            "salt": "88",
-            "key": "session-0aa1883c6411",
-            "bucket": 65000
-        },
-        {
             "hash": "v2",
             "salt": "salt-88",
             "key": "session-0aa1883c6411",
             "bucket": 59111
-        },
-        {
-            "hash": "legacy",
-            "salt": "125",
-            "key": "ünïcødé-192",
-            "bucket": 55000
         },
         {
             "hash": "v2",
@@ -2306,22 +1154,10 @@
             "bucket": 76562
         },
         {
-            "hash": "legacy",
-            "salt": "162",
-            "key": "193000579",
-            "bucket": 88000
-        },
-        {
             "hash": "v2",
             "salt": "salt-162",
             "key": "193000579",
             "bucket": 95142
-        },
-        {
-            "hash": "legacy",
-            "salt": "199",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx194",
-            "bucket": 4000
         },
         {
             "hash": "v2",
@@ -2330,22 +1166,10 @@
             "bucket": 52765
         },
         {
-            "hash": "legacy",
-            "salt": "236",
-            "key": "user-195",
-            "bucket": 59000
-        },
-        {
             "hash": "v2",
             "salt": "salt-236",
             "key": "user-195",
             "bucket": 31066
-        },
-        {
-            "hash": "legacy",
-            "salt": "273",
-            "key": "session-084b6fbb1072",
-            "bucket": 99000
         },
         {
             "hash": "v2",
@@ -2354,22 +1178,10 @@
             "bucket": 23637
         },
         {
-            "hash": "legacy",
-            "salt": "310",
-            "key": "ünïcødé-197",
-            "bucket": 70000
-        },
-        {
             "hash": "v2",
             "salt": "salt-310",
             "key": "ünïcødé-197",
             "bucket": 59141
-        },
-        {
-            "hash": "legacy",
-            "salt": "347",
-            "key": "198000594",
-            "bucket": 21000
         },
         {
             "hash": "v2",
@@ -2378,22 +1190,10 @@
             "bucket": 84462
         },
         {
-            "hash": "legacy",
-            "salt": "384",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx199",
-            "bucket": 6000
-        },
-        {
             "hash": "v2",
             "salt": "salt-384",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx199",
             "bucket": 28648
-        },
-        {
-            "hash": "legacy",
-            "salt": "421",
-            "key": "user-200",
-            "bucket": 40000
         },
         {
             "hash": "v2",
@@ -2402,22 +1202,10 @@
             "bucket": 52860
         },
         {
-            "hash": "legacy",
-            "salt": "458",
-            "key": "session-757b505cfd34",
-            "bucket": 74000
-        },
-        {
             "hash": "v2",
             "salt": "salt-458",
             "key": "session-757b505cfd34",
             "bucket": 55669
-        },
-        {
-            "hash": "legacy",
-            "salt": "495",
-            "key": "ünïcødé-202",
-            "bucket": 29000
         },
         {
             "hash": "v2",
@@ -2426,22 +1214,10 @@
             "bucket": 98885
         },
         {
-            "hash": "legacy",
-            "salt": "532",
-            "key": "203000609",
-            "bucket": 31000
-        },
-        {
             "hash": "v2",
             "salt": "salt-532",
             "key": "203000609",
             "bucket": 63743
-        },
-        {
-            "hash": "legacy",
-            "salt": "569",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx204",
-            "bucket": 87000
         },
         {
             "hash": "v2",
@@ -2450,22 +1226,10 @@
             "bucket": 14204
         },
         {
-            "hash": "legacy",
-            "salt": "606",
-            "key": "user-205",
-            "bucket": 99000
-        },
-        {
             "hash": "v2",
             "salt": "salt-606",
             "key": "user-205",
             "bucket": 9263
-        },
-        {
-            "hash": "legacy",
-            "salt": "643",
-            "key": "session-7eabe3a1649f",
-            "bucket": 0
         },
         {
             "hash": "v2",
@@ -2474,22 +1238,10 @@
             "bucket": 54224
         },
         {
-            "hash": "legacy",
-            "salt": "680",
-            "key": "ünïcødé-207",
-            "bucket": 3000
-        },
-        {
             "hash": "v2",
             "salt": "salt-680",
             "key": "ünïcødé-207",
             "bucket": 59318
-        },
-        {
-            "hash": "legacy",
-            "salt": "717",
-            "key": "208000624",
-            "bucket": 62000
         },
         {
             "hash": "v2",
@@ -2498,22 +1250,10 @@
             "bucket": 69265
         },
         {
-            "hash": "legacy",
-            "salt": "754",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx209",
-            "bucket": 88000
-        },
-        {
             "hash": "v2",
             "salt": "salt-754",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx209",
             "bucket": 37315
-        },
-        {
-            "hash": "legacy",
-            "salt": "791",
-            "key": "user-210",
-            "bucket": 26000
         },
         {
             "hash": "v2",
@@ -2522,22 +1262,10 @@
             "bucket": 74311
         },
         {
-            "hash": "legacy",
-            "salt": "828",
-            "key": "session-eb163727917c",
-            "bucket": 58000
-        },
-        {
             "hash": "v2",
             "salt": "salt-828",
             "key": "session-eb163727917c",
             "bucket": 40195
-        },
-        {
-            "hash": "legacy",
-            "salt": "865",
-            "key": "ünïcødé-212",
-            "bucket": 99000
         },
         {
             "hash": "v2",
@@ -2546,22 +1274,10 @@
             "bucket": 11218
         },
         {
-            "hash": "legacy",
-            "salt": "902",
-            "key": "213000639",
-            "bucket": 43000
-        },
-        {
             "hash": "v2",
             "salt": "salt-902",
             "key": "213000639",
             "bucket": 30328
-        },
-        {
-            "hash": "legacy",
-            "salt": "939",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx214",
-            "bucket": 59000
         },
         {
             "hash": "v2",
@@ -2570,22 +1286,10 @@
             "bucket": 47249
         },
         {
-            "hash": "legacy",
-            "salt": "976",
-            "key": "user-215",
-            "bucket": 37000
-        },
-        {
             "hash": "v2",
             "salt": "salt-976",
             "key": "user-215",
             "bucket": 1459
-        },
-        {
-            "hash": "legacy",
-            "salt": "16",
-            "key": "session-45fbc6d3e05e",
-            "bucket": 12000
         },
         {
             "hash": "v2",
@@ -2594,22 +1298,10 @@
             "bucket": 60053
         },
         {
-            "hash": "legacy",
-            "salt": "53",
-            "key": "ünïcødé-217",
-            "bucket": 52000
-        },
-        {
             "hash": "v2",
             "salt": "salt-53",
             "key": "ünïcødé-217",
             "bucket": 97217
-        },
-        {
-            "hash": "legacy",
-            "salt": "90",
-            "key": "218000654",
-            "bucket": 45000
         },
         {
             "hash": "v2",
@@ -2618,22 +1310,10 @@
             "bucket": 67008
         },
         {
-            "hash": "legacy",
-            "salt": "127",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx219",
-            "bucket": 2000
-        },
-        {
             "hash": "v2",
             "salt": "salt-127",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx219",
             "bucket": 17479
-        },
-        {
-            "hash": "legacy",
-            "salt": "164",
-            "key": "user-220",
-            "bucket": 92000
         },
         {
             "hash": "v2",
@@ -2642,22 +1322,10 @@
             "bucket": 14429
         },
         {
-            "hash": "legacy",
-            "salt": "201",
-            "key": "session-060ad9248994",
-            "bucket": 85000
-        },
-        {
             "hash": "v2",
             "salt": "salt-201",
             "key": "session-060ad9248994",
             "bucket": 73030
-        },
-        {
-            "hash": "legacy",
-            "salt": "238",
-            "key": "ünïcødé-222",
-            "bucket": 46000
         },
         {
             "hash": "v2",
@@ -2666,22 +1334,10 @@
             "bucket": 2027
         },
         {
-            "hash": "legacy",
-            "salt": "275",
-            "key": "223000669",
-            "bucket": 15000
-        },
-        {
             "hash": "v2",
             "salt": "salt-275",
             "key": "223000669",
             "bucket": 83280
-        },
-        {
-            "hash": "legacy",
-            "salt": "312",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx224",
-            "bucket": 82000
         },
         {
             "hash": "v2",
@@ -2690,22 +1346,10 @@
             "bucket": 43003
         },
         {
-            "hash": "legacy",
-            "salt": "349",
-            "key": "user-225",
-            "bucket": 27000
-        },
-        {
             "hash": "v2",
             "salt": "salt-349",
             "key": "user-225",
             "bucket": 36602
-        },
-        {
-            "hash": "legacy",
-            "salt": "386",
-            "key": "session-9cfdf10e8fc0",
-            "bucket": 72000
         },
         {
             "hash": "v2",
@@ -2714,22 +1358,10 @@
             "bucket": 15432
         },
         {
-            "hash": "legacy",
-            "salt": "423",
-            "key": "ünïcødé-227",
-            "bucket": 43000
-        },
-        {
             "hash": "v2",
             "salt": "salt-423",
             "key": "ünïcødé-227",
             "bucket": 76204
-        },
-        {
-            "hash": "legacy",
-            "salt": "460",
-            "key": "228000684",
-            "bucket": 56000
         },
         {
             "hash": "v2",
@@ -2738,22 +1370,10 @@
             "bucket": 13163
         },
         {
-            "hash": "legacy",
-            "salt": "497",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx229",
-            "bucket": 85000
-        },
-        {
             "hash": "v2",
             "salt": "salt-497",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx229",
             "bucket": 88172
-        },
-        {
-            "hash": "legacy",
-            "salt": "534",
-            "key": "user-230",
-            "bucket": 96000
         },
         {
             "hash": "v2",
@@ -2762,22 +1382,10 @@
             "bucket": 98573
         },
         {
-            "hash": "legacy",
-            "salt": "571",
-            "key": "session-9b04d152845e",
-            "bucket": 1000
-        },
-        {
             "hash": "v2",
             "salt": "salt-571",
             "key": "session-9b04d152845e",
             "bucket": 80969
-        },
-        {
-            "hash": "legacy",
-            "salt": "608",
-            "key": "ünïcødé-232",
-            "bucket": 42000
         },
         {
             "hash": "v2",
@@ -2786,22 +1394,10 @@
             "bucket": 94132
         },
         {
-            "hash": "legacy",
-            "salt": "645",
-            "key": "233000699",
-            "bucket": 71000
-        },
-        {
             "hash": "v2",
             "salt": "salt-645",
             "key": "233000699",
             "bucket": 55682
-        },
-        {
-            "hash": "legacy",
-            "salt": "682",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx234",
-            "bucket": 13000
         },
         {
             "hash": "v2",
@@ -2810,22 +1406,10 @@
             "bucket": 70775
         },
         {
-            "hash": "legacy",
-            "salt": "719",
-            "key": "user-235",
-            "bucket": 60000
-        },
-        {
             "hash": "v2",
             "salt": "salt-719",
             "key": "user-235",
             "bucket": 75102
-        },
-        {
-            "hash": "legacy",
-            "salt": "756",
-            "key": "session-01161aaa0b6d",
-            "bucket": 14000
         },
         {
             "hash": "v2",
@@ -2834,22 +1418,10 @@
             "bucket": 96422
         },
         {
-            "hash": "legacy",
-            "salt": "793",
-            "key": "ünïcødé-237",
-            "bucket": 80000
-        },
-        {
             "hash": "v2",
             "salt": "salt-793",
             "key": "ünïcødé-237",
             "bucket": 81483
-        },
-        {
-            "hash": "legacy",
-            "salt": "830",
-            "key": "238000714",
-            "bucket": 70000
         },
         {
             "hash": "v2",
@@ -2858,22 +1430,10 @@
             "bucket": 53347
         },
         {
-            "hash": "legacy",
-            "salt": "867",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx239",
-            "bucket": 46000
-        },
-        {
             "hash": "v2",
             "salt": "salt-867",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx239",
             "bucket": 98225
-        },
-        {
-            "hash": "legacy",
-            "salt": "904",
-            "key": "user-240",
-            "bucket": 5000
         },
         {
             "hash": "v2",
@@ -2882,22 +1442,10 @@
             "bucket": 76047
         },
         {
-            "hash": "legacy",
-            "salt": "941",
-            "key": "session-f340f1b1f65b",
-            "bucket": 17000
-        },
-        {
             "hash": "v2",
             "salt": "salt-941",
             "key": "session-f340f1b1f65b",
             "bucket": 75921
-        },
-        {
-            "hash": "legacy",
-            "salt": "978",
-            "key": "ünïcødé-242",
-            "bucket": 1000
         },
         {
             "hash": "v2",
@@ -2906,22 +1454,10 @@
             "bucket": 48910
         },
         {
-            "hash": "legacy",
-            "salt": "18",
-            "key": "243000729",
-            "bucket": 49000
-        },
-        {
             "hash": "v2",
             "salt": "salt-18",
             "key": "243000729",
             "bucket": 19593
-        },
-        {
-            "hash": "legacy",
-            "salt": "55",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx244",
-            "bucket": 56000
         },
         {
             "hash": "v2",
@@ -2930,22 +1466,10 @@
             "bucket": 18895
         },
         {
-            "hash": "legacy",
-            "salt": "92",
-            "key": "user-245",
-            "bucket": 10000
-        },
-        {
             "hash": "v2",
             "salt": "salt-92",
             "key": "user-245",
             "bucket": 16511
-        },
-        {
-            "hash": "legacy",
-            "salt": "129",
-            "key": "session-38db3aed920c",
-            "bucket": 41000
         },
         {
             "hash": "v2",
@@ -2954,22 +1478,10 @@
             "bucket": 95575
         },
         {
-            "hash": "legacy",
-            "salt": "166",
-            "key": "ünïcødé-247",
-            "bucket": 90000
-        },
-        {
             "hash": "v2",
             "salt": "salt-166",
             "key": "ünïcødé-247",
             "bucket": 5412
-        },
-        {
-            "hash": "legacy",
-            "salt": "203",
-            "key": "248000744",
-            "bucket": 33000
         },
         {
             "hash": "v2",
@@ -2978,22 +1490,10 @@
             "bucket": 3346
         },
         {
-            "hash": "legacy",
-            "salt": "240",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx249",
-            "bucket": 69000
-        },
-        {
             "hash": "v2",
             "salt": "salt-240",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx249",
             "bucket": 46944
-        },
-        {
-            "hash": "legacy",
-            "salt": "277",
-            "key": "user-250",
-            "bucket": 22000
         },
         {
             "hash": "v2",

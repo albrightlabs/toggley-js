@@ -22,7 +22,7 @@ for (const suite of evaluation.suites) {
 
 test('bucketing vectors', () => {
   const { buckets } = spec('bucketing-vectors.json');
-  assert.ok(buckets.length >= 500);
+  assert.ok(buckets.length >= 250);
   for (const row of buckets) {
     assert.equal(bucket(row.hash, row.salt, row.key, nativeRandom), row.bucket, JSON.stringify(row));
   }

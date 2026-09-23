@@ -39,17 +39,6 @@
             }
         },
         {
-            "key": "e2e-legacy-split",
-            "name": "E2E legacy 50% split",
-            "type": "boolean",
-            "clientSideAvailable": true,
-            "config": {
-                "on": true,
-                "offVariation": "off",
-                "fallthrough": { "rollout": { "hash": "legacy", "seed": null, "bucketBy": "key", "variations": [{ "variation": "on", "weight": 50000 }, { "variation": "off", "weight": 50000 }] } }
-            }
-        },
-        {
             "key": "e2e-text",
             "name": "E2E text",
             "type": "string",

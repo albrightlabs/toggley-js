@@ -1,8 +1,8 @@
 /**
  * Bucketer places a context in a bucket from 0 to 99999 for percentage splits.
  *   X = first 8 hex characters of sha256(input) as an unsigned 32-bit integer
- *   v2:     "{salt}.{key}" → X % 100000
- *   legacy: "{salt}:{key}" → (X % 100) * 1000
+ *   bucket = X % 100000, over the input "{salt}.{key}"
+ * An unkeyed context is bucketed at random instead, so it gets no sticky variation.
  * Ported from Bucketer.php.
  */
 import { createHash, randomInt } from 'node:crypto';
@@ -33,11 +33,7 @@ export function bucketKey(context, bucketBy = 'key') {
 
 export function bucket(hash, salt, key, random = nativeRandom) {
   if (key === null) {
-    const n = random.nextInt(BUCKETS);
-    return hash === 'legacy' ? Math.floor(n / 1000) * 1000 : n;
-  }
-  if (hash === 'legacy') {
-    return (prefix(`${salt}:${key}`) % 100) * 1000;
+    return random.nextInt(BUCKETS);
   }
   return prefix(`${salt}.${key}`) % BUCKETS;
 }

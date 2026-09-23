@@ -63,7 +63,7 @@ const client = init({ serverKey: setup.server_key, baseUrl, fetch: fetchSpy, log
 try {
   await check('server SDK initializes', async () => {
     assert.equal(await client.waitForInitialization(10000), true);
-    assert.equal(Object.keys(ours(client.allFlags({ key: 'x' }))).length, 7);
+    assert.equal(Object.keys(ours(client.allFlags({ key: 'x' }))).length, 6);
   });
 
   await check('50 contexts: server SDK equals /client/evaluate (browser SDK)', async () => {
@@ -73,16 +73,6 @@ try {
       assert.deepStrictEqual(ours(client.allFlags(context)), ours(browser.allFlags()), JSON.stringify(context));
     }
     browser.close();
-  });
-
-  await check('boolean flags equal the v1 API', async () => {
-    for (const context of contexts.slice(0, 15)) {
-      for (const flag of ['bool-on', 'bool-off', 'bool-split', 'legacy-split']) {
-        const response = await fetch(`${baseUrl}/api/v1/${setup.v1_key}/flags/${prefix}${flag}?subject=${encodeURIComponent(context.key)}`);
-        const body = await response.json();
-        assert.equal(body.enabled, client.boolVariation(`${prefix}${flag}`, { key: context.key }, !body.enabled), `${flag} ${context.key}`);
-      }
-    }
   });
 
   await check('second poll gets 304', async () => {

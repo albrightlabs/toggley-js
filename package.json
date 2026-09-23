@@ -7,7 +7,7 @@
     "packages/browser"
   ],
   "scripts": {
-    "test": "node --test packages/node/test/ packages/browser/test/",
+    "test": "node --test",
     "sync-vectors": "node scripts/sync-vectors.mjs",
     "vectors:check": "node scripts/check-vectors.mjs",
     "e2e": "node e2e/run.mjs"

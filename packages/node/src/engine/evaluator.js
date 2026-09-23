@@ -250,7 +250,7 @@ function isWellFormedServe(serve, ids) {
   }
 
   const rollout = serve.rollout;
-  if (!isPlainObject(rollout) || !['legacy', 'v2'].includes(rollout.hash)
+  if (!isPlainObject(rollout) || rollout.hash !== 'v2'
     || (rollout.seed !== undefined && rollout.seed !== null && typeof rollout.seed !== 'string')
     || (rollout.bucketBy !== undefined && rollout.bucketBy !== null && (typeof rollout.bucketBy !== 'string' || rollout.bucketBy === ''))
     || !Array.isArray(rollout.variations) || rollout.variations.length === 0) {
