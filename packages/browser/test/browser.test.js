@@ -44,6 +44,8 @@ test('loads values, emits changes on identify and caches per context', async () 
   assert.equal(client.variation('banner', 'none'), 'plain');
   assert.equal(calls[0].url, 'https://my.toggleyapp.com/api/v2/client/evaluate');
   assert.equal(calls[0].init.headers.authorization, `Bearer ${CLIENT_KEY}`);
+  // Toggley's CORS preflight allows only these; any other header breaks every browser request.
+  assert.deepEqual(Object.keys(calls[0].init.headers).sort(), ['authorization', 'content-type']);
   assert.equal(client.variationDetail('missing', 1).reason.errorKind, 'FLAG_NOT_FOUND');
 
   const changes = [];

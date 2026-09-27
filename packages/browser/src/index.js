@@ -4,7 +4,6 @@
  * SDKs"). Values are cached in localStorage for a fast start, refreshed every
  * five minutes while the page is visible, and after identify().
  */
-const SDK_VERSION = '0.1.0';
 const DEFAULT_BASE_URL = 'https://my.toggleyapp.com';
 
 const own = (object, key) => Object.prototype.hasOwnProperty.call(object, key);
@@ -103,7 +102,8 @@ export class ToggleyBrowserClient {
     try {
       const response = await this._fetch(`${this._baseUrl}/api/v2/client/evaluate`, {
         method: 'POST',
-        headers: { authorization: `Bearer ${this._key}`, 'content-type': 'application/json', 'x-toggley-sdk': `toggley-browser/${SDK_VERSION}` },
+        // Only headers Toggley's CORS preflight allows (Authorization, Content-Type).
+        headers: { authorization: `Bearer ${this._key}`, 'content-type': 'application/json' },
         body: JSON.stringify({ context, withReasons: this._withReasons }),
         signal: typeof AbortSignal !== 'undefined' && AbortSignal.timeout ? AbortSignal.timeout(this._timeout) : undefined,
       });
