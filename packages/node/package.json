@@ -12,7 +12,7 @@
     }
   },
   "bin": {
-    "toggley-pull": "./bin/pull.js"
+    "toggley-pull": "bin/pull.js"
   },
   "files": [
     "src",
@@ -22,7 +22,23 @@
   "engines": {
     "node": ">=18"
   },
-  "keywords": ["feature flags", "feature toggles", "toggley"],
+  "keywords": [
+    "feature flags",
+    "feature toggles",
+    "toggley"
+  ],
   "homepage": "https://toggleyapp.com",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albrightlabs/toggley-js.git",
+    "directory": "packages/node"
+  },
+  "bugs": {
+    "url": "https://github.com/albrightlabs/toggley-js/issues"
+  },
+  "author": "Albright Labs",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
